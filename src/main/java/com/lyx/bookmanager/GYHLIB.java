@@ -6,10 +6,10 @@ import org.springframework.boot.web.servlet.ServletComponentScan;
 
 @SpringBootApplication
 @ServletComponentScan("com.lyx.bookmanager.config")
-public class BookmanagerApplication{
+public class GYHLIB {
 
     public static void main(String[] args) {
-        SpringApplication.run(BookmanagerApplication.class, args);
+        SpringApplication.run(GYHLIB.class, args);
     }
     
 
