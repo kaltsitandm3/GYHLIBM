@@ -1,4 +1,4 @@
-2021级计科三班管逸涵 202120201304
+
 # 图书管理系统
 
 参考项目：https://github.com/withstars/Books-Management-System <br>
